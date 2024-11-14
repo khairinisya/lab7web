@@ -21,7 +21,7 @@ Gambar 01. XAMPP Contro
 • Database MySQL Direktori: \xampp\mysql
 Manajemen database: http://localhost/phpmyadmin
 
-##Memulai PHP
+Memulai PHP
 
 Buat folder lab7_php_dasar pada root directory web server (D:\xampp\htdocs)
 Gambar 02. Directory Lab7
