@@ -46,6 +46,24 @@ Menambahkan variable pada program.
 ![Screenshot 2024-11-13 171427](https://github.com/user-attachments/assets/96888b01-bb3e-422d-9d46-eb30f273702e)
 
 Hasilnya
+![Screenshot 2024-11-13 171308](https://github.com/user-attachments/assets/3f80e1a8-0889-4b99-8737-68a46d88d815)
+
+Predefine Variable $_GET
+
+![Screenshot 2024-11-13 173438](https://github.com/user-attachments/assets/6f98dd1e-fa51-49a1-b28a-74fb91c5f3ae)
+
+Hasilnya
+![Screenshot 2024-11-13 173409](https://github.com/user-attachments/assets/c5b42d7f-8ed0-4d33-9cad-a391c9c8ded1)
+
+Membuat Form Input
+
+![Screenshot 2024-11-13 182118](https://github.com/user-attachments/assets/06f09dc7-9bf5-4b2b-91a2-9d8b3d8f6fb5)
+
+Hasilnya 
+![Screenshot 2024-11-13 182048](https://github.com/user-attachments/assets/14f9ac7d-5f40-48af-ac9d-52d6e47f39a9)
+
+
+
 
 
 
