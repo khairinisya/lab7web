@@ -14,7 +14,7 @@ Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi por
 Menjalankan Web Server
 
 Untuk menjalankan web server dari menu XAMPP Control.
-Gambar 01. XAMPP Contro
+Gambar1. XAMPP Control
 ![Screenshot 2024-11-14 115251](https://github.com/user-attachments/assets/9e593d93-4615-4ea2-af1c-1c1ac5910429)
 
 • Uji coba apakah server sudah berkerja dengan baik http://127.0.0.1 atau http://localhost Tampil halaman utama XAMPP jika server sudah berkerja dengan baik. • Dokumen Website Semua file website tempatkan di direktori: \xampp\htdocs
@@ -24,12 +24,21 @@ Manajemen database: http://localhost/phpmyadmin
 Memulai PHP
 
 Buat folder lab7_php_dasar pada root directory web server (D:\xampp\htdocs)
-Gambar 02. Directory Lab7
+Gambar2. Directory Lab7
 ![Screenshot 2024-11-14 155840](https://github.com/user-attachments/assets/d4203cf0-dd63-4b42-9a79-753120cda452)
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
+Gambar3. Tampilan Web Server
 
 ![Screenshot 2024-11-13 170658](https://github.com/user-attachments/assets/6cb7a092-ca2c-4fe3-b40d-417213f7698f)
+
+PHP Dasar
+Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
+![Screenshot 2024-11-13 170953](https://github.com/user-attachments/assets/8bca6586-e014-406f-91c5-83981d4c1d5a)
+
+Hasilnya
+![Screenshot 2024-11-13 170816](https://github.com/user-attachments/assets/9a1d6bd0-6dcb-4ff8-b1fd-023ced89628a)
+
 
 
 
