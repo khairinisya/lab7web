@@ -28,6 +28,7 @@ Gambar 02. Directory Lab7
 ![Screenshot 2024-11-14 155840](https://github.com/user-attachments/assets/d4203cf0-dd63-4b42-9a79-753120cda452)
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
+
 ![Screenshot 2024-11-13 170658](https://github.com/user-attachments/assets/6cb7a092-ca2c-4fe3-b40d-417213f7698f)
 
 
