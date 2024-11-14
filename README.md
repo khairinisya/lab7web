@@ -62,6 +62,27 @@ Membuat Form Input
 Hasilnya 
 ![Screenshot 2024-11-13 182048](https://github.com/user-attachments/assets/14f9ac7d-5f40-48af-ac9d-52d6e47f39a9)
 
+Operator
+
+![Screenshot 2024-11-14 112711](https://github.com/user-attachments/assets/2314eaae-c84a-409d-9203-4599fc831425)
+
+Hasilnya 
+![Screenshot 2024-11-14 112614](https://github.com/user-attachments/assets/2e8249ec-3835-4fef-8c86-6b3be6979467)
+
+Kondisi IF
+
+![Screenshot 2024-11-14 112854](https://github.com/user-attachments/assets/35112a5b-8d64-48ec-920f-22c0705f48f3)
+
+Hasilnya
+![Screenshot 2024-11-14 112828](https://github.com/user-attachments/assets/96704599-1dba-4e83-8de6-3ed395de7197)
+
+Kondisi Switch
+
+![Screenshot 2024-11-14 113123](https://github.com/user-attachments/assets/81fabe96-4df8-4a16-8c1e-96d4e6d538df)
+
+Hasilnya
+![Screenshot 2024-11-14 163818](https://github.com/user-attachments/assets/5b972f17-0d3c-466c-8b58-e51ae8fd0364)
+
 
 
 
