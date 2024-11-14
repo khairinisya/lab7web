@@ -14,18 +14,25 @@ Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi por
 Menjalankan Web Server
 
 Untuk menjalankan web server dari menu XAMPP Control.
+Gambar 01. XAMPP Contro
 ![Screenshot 2024-11-14 115251](https://github.com/user-attachments/assets/9e593d93-4615-4ea2-af1c-1c1ac5910429)
-
-Gambar 01. XAMPP Control
 
 • Uji coba apakah server sudah berkerja dengan baik http://127.0.0.1 atau http://localhost Tampil halaman utama XAMPP jika server sudah berkerja dengan baik. • Dokumen Website Semua file website tempatkan di direktori: \xampp\htdocs
 • Database MySQL Direktori: \xampp\mysql
 Manajemen database: http://localhost/phpmyadmin
 
+Memulai PHP
+
+Buat folder lab7_php_dasar pada root directory web server (D:\xampp\htdocs)
+Gambar 02. Directory Lab7
+![Screenshot 2024-11-14 155840](https://github.com/user-attachments/assets/d4203cf0-dd63-4b42-9a79-753120cda452)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
+![Screenshot 2024-11-13 170658](https://github.com/user-attachments/assets/6cb7a092-ca2c-4fe3-b40d-417213f7698f)
 
 
-PENGENALAN JAVASCRIPT
-*buat dokumen html dengan nama file lab5_javascript.html dengan syntax seperti berikut* :
-![Screenshot 2024-10-24 173804](https://github.com/user-attachments/assets/572b7815-d48e-40f1-8322-7ad79a86daeb)
--HASIL
-![Screenshot 2024-10-24 173746](https://github.com/user-attachments/assets/0036ff50-59a5-4574-a57b-d0f96e348451)
+
+
+
+
+
