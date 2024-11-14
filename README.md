@@ -83,6 +83,41 @@ Kondisi Switch
 Hasilnya
 ![Screenshot 2024-11-14 163818](https://github.com/user-attachments/assets/5b972f17-0d3c-466c-8b58-e51ae8fd0364)
 
+Perulangan for
+
+![Screenshot 2024-11-14 113310](https://github.com/user-attachments/assets/08d61a30-af82-4c0e-b08b-5dfa4dc885e3)
+
+Hasilnya
+![Screenshot 2024-11-14 113654](https://github.com/user-attachments/assets/260a9d2c-ad41-432e-b9cd-aa2d19af040b)
+
+Perulangan while
+
+![Screenshot 2024-11-14 113855](https://github.com/user-attachments/assets/81865f3a-163c-4b1e-8129-c4c060141af8)
+
+Hasilnya
+![Screenshot 2024-11-14 113837](https://github.com/user-attachments/assets/f56989a3-a089-46ed-b86a-2ef03536bd5f)
+
+Perulangan dowhile
+
+![Screenshot 2024-11-14 114008](https://github.com/user-attachments/assets/ee541209-e9d4-4857-aedb-d59cc5963244)
+
+Hasilnya
+![Screenshot 2024-11-14 113950](https://github.com/user-attachments/assets/01a00f67-8011-4360-a785-080cde905122)
+
+
+Pertanyaan dan Tugas
+
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+
+JAWAB
+
+![Screenshot 2024-11-14 114349](https://github.com/user-attachments/assets/0f6582a2-76ee-4c11-8259-4695565769d4)
+
+![Screenshot 2024-11-14 114414](https://github.com/user-attachments/assets/5226d0df-065e-4368-ba8e-cdb108836b8f)
+
+Hasilnya
+![Screenshot 2024-11-14 114315](https://github.com/user-attachments/assets/dbb38005-4e95-43ae-b7a6-fa4c7284bb8f)
+
 
 
 
