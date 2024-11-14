@@ -33,11 +33,20 @@ Gambar3. Tampilan Web Server
 ![Screenshot 2024-11-13 170658](https://github.com/user-attachments/assets/6cb7a092-ca2c-4fe3-b40d-417213f7698f)
 
 PHP Dasar
+
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 ![Screenshot 2024-11-13 170953](https://github.com/user-attachments/assets/8bca6586-e014-406f-91c5-83981d4c1d5a)
 
 Hasilnya
 ![Screenshot 2024-11-13 170816](https://github.com/user-attachments/assets/9a1d6bd0-6dcb-4ff8-b1fd-023ced89628a)
+
+Variable PHP
+
+Menambahkan variable pada program.
+![Screenshot 2024-11-13 171427](https://github.com/user-attachments/assets/96888b01-bb3e-422d-9d46-eb30f273702e)
+
+Hasilnya
+
 
 
 
